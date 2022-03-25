@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bruhfl
-- 👀 I’m interested in Machine Learning and RPA
-- 🌱 I’m currently learning Cobol and Python
+- 👀 I’m interested in Devops and RPA
+- 🌱 I’m currently learning infrastructure as code and cloud 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
